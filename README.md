@@ -1,7 +1,9 @@
 # mint 文档
 1克隆一份到本地
 
-https://github.com/cat-inscription/mint.git
+```html
+git clone https://github.com/chriscczhou/polsMint.git
+```
 
 2刷新Maven依赖pom.xml
 
