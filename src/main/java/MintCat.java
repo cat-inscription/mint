@@ -47,7 +47,7 @@ public class MintCat {
 						);
 				String transactionHash = ethSendTransaction.getTransactionHash();
 				// 交易哈希
-				System.out.println("【"+(num+1)+"】"+transactionHash);
+				System.out.println("【"+(i+1)+"】"+transactionHash);
 			} catch (IOException e) {
 				throw new RuntimeException(e);
 			}
